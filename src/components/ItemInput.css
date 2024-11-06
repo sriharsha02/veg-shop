@@ -1,0 +1,27 @@
+.input-boxes{
+
+    margin: 5px;
+    padding: 5px;
+
+}
+
+label{
+    display: block;
+}
+input{
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 5px;
+    width: 90px;
+}
+button{
+    margin-top: 10px;
+    padding: 8px 12px;
+    background-color: grey;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+.item-edit{
+    margin: 10px;
+}
